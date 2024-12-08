@@ -1,0 +1,333 @@
+[2024-12-08 04:30:18] Attempting to get notifications for user id: 5
+[2024-12-08 04:30:18] Notifications not found: UserID: 5
+[2024-12-08 04:30:23] Attempting to get notifications for user id: 5
+[2024-12-08 04:30:23] Notifications not found: UserID: 5
+[2024-12-08 04:30:28] Attempting to get notifications for user id: 5
+[2024-12-08 04:30:28] Notifications not found: UserID: 5
+[2024-12-08 04:30:33] Attempting to get notifications for user id: 5
+[2024-12-08 04:30:33] Notifications not found: UserID: 5
+[2024-12-08 04:30:38] Attempting to get notifications for user id: 5
+[2024-12-08 04:30:38] Notifications not found: UserID: 5
+[2024-12-08 04:30:43] Attempting to get notifications for user id: 5
+[2024-12-08 04:30:43] Notifications not found: UserID: 5
+[2024-12-08 04:30:48] Attempting to get notifications for user id: 5
+[2024-12-08 04:30:48] Notifications not found: UserID: 5
+[2024-12-08 04:30:53] Attempting to get notifications for user id: 5
+[2024-12-08 04:30:53] Notifications not found: UserID: 5
+[2024-12-08 04:30:56] GET request received for fetching posts.
+[2024-12-08 04:30:56] Attempting to fetch all posts from the database.
+[2024-12-08 04:30:56] Retrieving all posts
+[2024-12-08 04:30:56] Raw results: [{"PostID":7,"CreatorID":5,"Title":"Marshfield Area MTG Casual Event","Likes":0,"DateCreated":"2024\/11\/28","DateHeld":"2024-12-10","Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street"}]
+[2024-12-08 04:30:56] Posts data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:30:56] Raw Posts Data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:30:56] Formatted Response Data: [{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:30:56] Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-08 04:30:57] Attempting to get notifications for user id: 5
+[2024-12-08 04:30:57] Notifications not found: UserID: 5
+[2024-12-08 04:30:58] Valid post_id received: 7
+[2024-12-08 04:30:58] Attempting to retrieve post with ID: 7
+[2024-12-08 04:30:58] User: admin was found
+[2024-12-08 04:30:58] Post retrieved successfully: PostID: 7
+[2024-12-08 04:30:58] Attempting to get comments
+[2024-12-08 04:30:58] No comments found for post_id: 7.
+[2024-12-08 04:30:59] Attempting to get notifications for user id: 5
+[2024-12-08 04:30:59] Notifications not found: UserID: 5
+[2024-12-08 04:31:04] Attempting to get notifications for user id: 5
+[2024-12-08 04:31:04] Notifications not found: UserID: 5
+[2024-12-08 04:31:09] Attempting to get notifications for user id: 5
+[2024-12-08 04:31:09] Notifications not found: UserID: 5
+[2024-12-08 04:31:14] Attempting to get notifications for user id: 5
+[2024-12-08 04:31:14] Notifications not found: UserID: 5
+[2024-12-08 04:31:19] Attempting to get notifications for user id: 5
+[2024-12-08 04:31:19] Notifications not found: UserID: 5
+[2024-12-08 04:31:40] GET request received for fetching posts.
+[2024-12-08 04:31:40] Attempting to fetch all posts from the database.
+[2024-12-08 04:31:40] Retrieving all posts
+[2024-12-08 04:31:40] Raw results: [{"PostID":7,"CreatorID":5,"Title":"Marshfield Area MTG Casual Event","Likes":0,"DateCreated":"2024\/11\/28","DateHeld":"2024-12-10","Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street"}]
+[2024-12-08 04:31:40] Posts data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:31:40] Raw Posts Data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:31:40] Formatted Response Data: [{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:31:40] Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-08 04:31:42] Valid post_id received: 7
+[2024-12-08 04:31:42] Attempting to retrieve post with ID: 7
+[2024-12-08 04:31:42] User: admin was found
+[2024-12-08 04:31:42] Post retrieved successfully: PostID: 7
+[2024-12-08 04:31:42] Attempting to get comments
+[2024-12-08 04:31:42] No comments found for post_id: 7.
+[2024-12-08 04:34:37] GET request received for fetching posts.
+[2024-12-08 04:34:37] Attempting to fetch all posts from the database.
+[2024-12-08 04:34:37] Retrieving all posts
+[2024-12-08 04:34:37] Raw results: [{"PostID":7,"CreatorID":5,"Title":"Marshfield Area MTG Casual Event","Likes":0,"DateCreated":"2024\/11\/28","DateHeld":"2024-12-10","Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street"}]
+[2024-12-08 04:34:37] Posts data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:34:37] Raw Posts Data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:34:37] Formatted Response Data: [{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:34:37] Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-08 04:34:39] Valid post_id received: 7
+[2024-12-08 04:34:39] Attempting to retrieve post with ID: 7
+[2024-12-08 04:34:39] User: admin was found
+[2024-12-08 04:34:39] Post retrieved successfully: PostID: 7
+[2024-12-08 04:34:40] Attempting to get comments
+[2024-12-08 04:34:40] No comments found for post_id: 7.
+[2024-12-08 04:37:58] GET request received for fetching posts.
+[2024-12-08 04:37:58] Attempting to fetch all posts from the database.
+[2024-12-08 04:37:58] Retrieving all posts
+[2024-12-08 04:37:58] Raw results: [{"PostID":7,"CreatorID":5,"Title":"Marshfield Area MTG Casual Event","Likes":0,"DateCreated":"2024\/11\/28","DateHeld":"2024-12-10","Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street"}]
+[2024-12-08 04:37:58] Posts data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:37:58] Raw Posts Data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:37:58] Formatted Response Data: [{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:37:58] Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-08 04:38:00] Valid post_id received: 7
+[2024-12-08 04:38:00] Attempting to retrieve post with ID: 7
+[2024-12-08 04:38:00] User: admin was found
+[2024-12-08 04:38:00] Post retrieved successfully: PostID: 7
+[2024-12-08 04:38:00] Attempting to get comments
+[2024-12-08 04:38:00] No comments found for post_id: 7.
+[2024-12-08 04:41:51] Validation failed for user 'KodyWeigel': Password must be between 8 and 20 characters long.
+Password must contain at least one number.
+[2024-12-08 04:41:51] Failed to create user 'KodyWeigel'.
+[2024-12-08 04:45:47] Validation failed for user 'g': Password must be between 8 and 20 characters long.
+Password must contain at least one number.
+Password must contain at least one uppercase letter.
+[2024-12-08 04:45:47] Failed to create user 'g'.
+[2024-12-08 04:46:49] Validation failed for user 'd': Password must be between 8 and 20 characters long.
+Password must contain at least one number.
+Password must contain at least one uppercase letter.
+[2024-12-08 04:46:49] Failed to create user 'd'.
+[2024-12-08 04:51:04] User KodyWeigel added successfully.
+[2024-12-08 04:51:04] User 'KodyWeigel' created successfully.
+[2024-12-08 04:51:18] Attempting Login with email: kody@gmail.com
+[2024-12-08 04:51:18] User: KodyWeigel was found
+[2024-12-08 04:51:18] Attempting to validate password for email: kody@gmail.com
+[2024-12-08 04:51:18] Hashed password:$2y$10$k.rcqIeSLC.EPnHklwbnIuME/QMfOvy/StsaCevcVZvZTfiGAVyqK
+[2024-12-08 04:51:18] Inputted Password:Password1
+[2024-12-08 04:51:18] Password validation successful for email: kody@gmail.com
+[2024-12-08 04:51:19] Attempting to get notifications for user id: 8
+[2024-12-08 04:51:19] Notifications not found: UserID: 8
+[2024-12-08 04:51:24] Attempting to get notifications for user id: 8
+[2024-12-08 04:51:24] Notifications not found: UserID: 8
+[2024-12-08 04:51:29] Attempting to get notifications for user id: 8
+[2024-12-08 04:51:29] Notifications not found: UserID: 8
+[2024-12-08 04:51:34] Attempting to get notifications for user id: 8
+[2024-12-08 04:51:34] Notifications not found: UserID: 8
+[2024-12-08 04:51:39] Attempting to get notifications for user id: 8
+[2024-12-08 04:51:39] Notifications not found: UserID: 8
+[2024-12-08 04:51:41] GET request received for fetching posts.
+[2024-12-08 04:51:41] Attempting to fetch all posts from the database.
+[2024-12-08 04:51:41] Retrieving all posts
+[2024-12-08 04:51:41] Raw results: [{"PostID":7,"CreatorID":5,"Title":"Marshfield Area MTG Casual Event","Likes":0,"DateCreated":"2024\/11\/28","DateHeld":"2024-12-10","Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street"}]
+[2024-12-08 04:51:41] Posts data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:51:41] Raw Posts Data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:51:41] Formatted Response Data: [{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:51:41] Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-08 04:51:42] Attempting to get notifications for user id: 8
+[2024-12-08 04:51:42] Notifications not found: UserID: 8
+[2024-12-08 04:51:47] Attempting to get notifications for user id: 8
+[2024-12-08 04:51:47] Notifications not found: UserID: 8
+[2024-12-08 04:51:52] Attempting to get notifications for user id: 8
+[2024-12-08 04:51:52] Notifications not found: UserID: 8
+[2024-12-08 04:51:53] Valid post_id received: 7
+[2024-12-08 04:51:53] Attempting to retrieve post with ID: 7
+[2024-12-08 04:51:53] User: admin was found
+[2024-12-08 04:51:53] Post retrieved successfully: PostID: 7
+[2024-12-08 04:51:54] Attempting to get comments
+[2024-12-08 04:51:54] No comments found for post_id: 7.
+[2024-12-08 04:51:55] Attempting to get notifications for user id: 8
+[2024-12-08 04:51:55] Notifications not found: UserID: 8
+[2024-12-08 04:52:00] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:00] Notifications not found: UserID: 8
+[2024-12-08 04:52:05] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:05] Notifications not found: UserID: 8
+[2024-12-08 04:52:10] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:10] Notifications not found: UserID: 8
+[2024-12-08 04:52:15] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:15] Notifications not found: UserID: 8
+[2024-12-08 04:52:15] Attempting to create a comment
+[2024-12-08 04:52:15] creator_id: 8, post_id: 7, token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo4LCJ1c2VybmFtZSI6IktvZHlXZWlnZWwiLCJlbWFpbCI6ImtvZHlAZ21haWwuY29tIiwicm9sZSI6InVzZXIiLCJleHAiOjE3MzM3Mjk4Nzd9.VQDiwv8WNQRDtfQT_KcKRzhsw5yHSyzqsrmaWZnC45k, comment_body: Sounds fun ill be there!
+[2024-12-08 04:52:15] Valid JWT for user ID: 8
+[2024-12-08 04:52:15] Comment created successfully for PostID: 7 by CreatorID: 8.
+[2024-12-08 04:52:15] Comment created for PostID: 7 by CreatorID: 8.
+[2024-12-08 04:52:15] Attempting to retrieve post with ID: 7
+[2024-12-08 04:52:15] User: admin was found
+[2024-12-08 04:52:15] Notification successfully created for user: 5
+[2024-12-08 04:52:16] Valid post_id received: 7
+[2024-12-08 04:52:16] Attempting to retrieve post with ID: 7
+[2024-12-08 04:52:16] User: admin was found
+[2024-12-08 04:52:16] Post retrieved successfully: PostID: 7
+[2024-12-08 04:52:17] Attempting to get comments
+[2024-12-08 04:52:17] User: KodyWeigel was found
+[2024-12-08 04:52:17] Comments retrieved: 1 comments found.
+[2024-12-08 04:52:17] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:17] Notifications not found: UserID: 8
+[2024-12-08 04:52:22] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:22] Notifications not found: UserID: 8
+[2024-12-08 04:52:27] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:27] Notifications not found: UserID: 8
+[2024-12-08 04:52:32] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:32] Notifications not found: UserID: 8
+[2024-12-08 04:52:36] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:36] Notifications not found: UserID: 8
+[2024-12-08 04:52:41] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:41] Notifications not found: UserID: 8
+[2024-12-08 04:52:46] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:46] Notifications not found: UserID: 8
+[2024-12-08 04:52:51] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:51] Notifications not found: UserID: 8
+[2024-12-08 04:52:56] Attempting to get notifications for user id: 8
+[2024-12-08 04:52:56] Notifications not found: UserID: 8
+[2024-12-08 04:53:01] Attempting to get notifications for user id: 8
+[2024-12-08 04:53:01] Notifications not found: UserID: 8
+[2024-12-08 04:53:06] Attempting to get notifications for user id: 8
+[2024-12-08 04:53:06] Notifications not found: UserID: 8
+[2024-12-08 04:53:11] Attempting to get notifications for user id: 8
+[2024-12-08 04:53:11] Notifications not found: UserID: 8
+[2024-12-08 04:53:13] Valid JWT for user ID: 8
+[2024-12-08 04:53:13] Post created by CreatorID: 8 with PostID: 10.
+[2024-12-08 04:53:14] GET request received for fetching posts.
+[2024-12-08 04:53:14] Attempting to fetch all posts from the database.
+[2024-12-08 04:53:14] Retrieving all posts
+[2024-12-08 04:53:14] Raw results: [{"PostID":7,"CreatorID":5,"Title":"Marshfield Area MTG Casual Event","Likes":0,"DateCreated":"2024\/11\/28","DateHeld":"2024-12-10","Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street"},{"PostID":10,"CreatorID":8,"Title":"Stevens Point MTG Club","Likes":0,"DateCreated":"2024\/12\/08","DateHeld":"2024-12-25","Description":"Test Test Test","Location":"123 Main Street"}]
+[2024-12-08 04:53:14] Posts data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"},{"PostID":10,"CreatorID":8,"Description":"Test Test Test","Location":"123 Main Street","DateHeld":"2024-12-25","DateCreated":"2024\/12\/08","Likes":0,"Title":"Stevens Point MTG Club"}]
+[2024-12-08 04:53:14] Raw Posts Data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"},{"PostID":10,"CreatorID":8,"Description":"Test Test Test","Location":"123 Main Street","DateHeld":"2024-12-25","DateCreated":"2024\/12\/08","Likes":0,"Title":"Stevens Point MTG Club"}]
+[2024-12-08 04:53:14] Formatted Response Data: [{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"},{"post_id":10,"description":"Test Test Test","location":"123 Main Street","date_held":"2024-12-25","date_created":"2024\/12\/08","likes":0,"title":"Stevens Point MTG Club"}]
+[2024-12-08 04:53:14] Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"},{"post_id":10,"description":"Test Test Test","location":"123 Main Street","date_held":"2024-12-25","date_created":"2024\/12\/08","likes":0,"title":"Stevens Point MTG Club"}]}
+[2024-12-08 04:53:15] Attempting to get notifications for user id: 8
+[2024-12-08 04:53:15] Notifications not found: UserID: 8
+[2024-12-08 04:53:17] Valid post_id received: 10
+[2024-12-08 04:53:17] Attempting to retrieve post with ID: 10
+[2024-12-08 04:53:17] User: KodyWeigel was found
+[2024-12-08 04:53:17] Post retrieved successfully: PostID: 10
+[2024-12-08 04:53:18] Attempting to get comments
+[2024-12-08 04:53:18] No comments found for post_id: 10.
+[2024-12-08 04:53:19] Attempting to get notifications for user id: 8
+[2024-12-08 04:53:19] Notifications not found: UserID: 8
+[2024-12-08 04:53:23] GET request received for fetching posts.
+[2024-12-08 04:53:23] Attempting to fetch all posts from the database.
+[2024-12-08 04:53:23] Retrieving all posts
+[2024-12-08 04:53:23] Raw results: [{"PostID":7,"CreatorID":5,"Title":"Marshfield Area MTG Casual Event","Likes":0,"DateCreated":"2024\/11\/28","DateHeld":"2024-12-10","Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street"},{"PostID":10,"CreatorID":8,"Title":"Stevens Point MTG Club","Likes":0,"DateCreated":"2024\/12\/08","DateHeld":"2024-12-25","Description":"Test Test Test","Location":"123 Main Street"}]
+[2024-12-08 04:53:23] Posts data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"},{"PostID":10,"CreatorID":8,"Description":"Test Test Test","Location":"123 Main Street","DateHeld":"2024-12-25","DateCreated":"2024\/12\/08","Likes":0,"Title":"Stevens Point MTG Club"}]
+[2024-12-08 04:53:23] Raw Posts Data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"},{"PostID":10,"CreatorID":8,"Description":"Test Test Test","Location":"123 Main Street","DateHeld":"2024-12-25","DateCreated":"2024\/12\/08","Likes":0,"Title":"Stevens Point MTG Club"}]
+[2024-12-08 04:53:23] Formatted Response Data: [{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"},{"post_id":10,"description":"Test Test Test","location":"123 Main Street","date_held":"2024-12-25","date_created":"2024\/12\/08","likes":0,"title":"Stevens Point MTG Club"}]
+[2024-12-08 04:53:23] Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"},{"post_id":10,"description":"Test Test Test","location":"123 Main Street","date_held":"2024-12-25","date_created":"2024\/12\/08","likes":0,"title":"Stevens Point MTG Club"}]}
+[2024-12-08 04:53:23] Attempting to get notifications for user id: 8
+[2024-12-08 04:53:23] Notifications not found: UserID: 8
+[2024-12-08 04:53:28] Attempting to get notifications for user id: 8
+[2024-12-08 04:53:28] Notifications not found: UserID: 8
+[2024-12-08 04:53:43] Attempting Login with email: admin@gmail.com
+[2024-12-08 04:53:43] User: admin was found
+[2024-12-08 04:53:43] Attempting to validate password for email: admin@gmail.com
+[2024-12-08 04:53:43] Hashed password:$2y$10$xDUDpNjicyECshRmOauefeI6eqcR0Whf2ZucirhkdqkWPK7m./ZsO
+[2024-12-08 04:53:43] Inputted Password:Password1
+[2024-12-08 04:53:43] Password validation successful for email: admin@gmail.com
+[2024-12-08 04:53:44] Attempting to get notifications for user id: 5
+[2024-12-08 04:53:44] Notifications retrieved successfully: UserID: 5
+[2024-12-08 04:53:44] Attempting to get notifications for user id: 5
+[2024-12-08 04:53:44] Notifications retrieved successfully: UserID: 5
+[2024-12-08 04:53:48] Attempting to get notifications for user id: 5
+[2024-12-08 04:53:48] Notifications retrieved successfully: UserID: 5
+[2024-12-08 04:53:49] Attempting to get notifications for user id: 5
+[2024-12-08 04:53:49] Notifications retrieved successfully: UserID: 5
+[2024-12-08 04:53:52] GET request received for fetching posts.
+[2024-12-08 04:53:52] Attempting to fetch all posts from the database.
+[2024-12-08 04:53:52] Retrieving all posts
+[2024-12-08 04:53:52] Raw results: [{"PostID":7,"CreatorID":5,"Title":"Marshfield Area MTG Casual Event","Likes":0,"DateCreated":"2024\/11\/28","DateHeld":"2024-12-10","Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street"},{"PostID":10,"CreatorID":8,"Title":"Stevens Point MTG Club","Likes":0,"DateCreated":"2024\/12\/08","DateHeld":"2024-12-25","Description":"Test Test Test","Location":"123 Main Street"}]
+[2024-12-08 04:53:52] Posts data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"},{"PostID":10,"CreatorID":8,"Description":"Test Test Test","Location":"123 Main Street","DateHeld":"2024-12-25","DateCreated":"2024\/12\/08","Likes":0,"Title":"Stevens Point MTG Club"}]
+[2024-12-08 04:53:52] Raw Posts Data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"},{"PostID":10,"CreatorID":8,"Description":"Test Test Test","Location":"123 Main Street","DateHeld":"2024-12-25","DateCreated":"2024\/12\/08","Likes":0,"Title":"Stevens Point MTG Club"}]
+[2024-12-08 04:53:52] Formatted Response Data: [{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"},{"post_id":10,"description":"Test Test Test","location":"123 Main Street","date_held":"2024-12-25","date_created":"2024\/12\/08","likes":0,"title":"Stevens Point MTG Club"}]
+[2024-12-08 04:53:52] Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"},{"post_id":10,"description":"Test Test Test","location":"123 Main Street","date_held":"2024-12-25","date_created":"2024\/12\/08","likes":0,"title":"Stevens Point MTG Club"}]}
+[2024-12-08 04:53:53] Attempting to get notifications for user id: 5
+[2024-12-08 04:53:53] Notifications retrieved successfully: UserID: 5
+[2024-12-08 04:53:57] Attempting to get notifications for user id: 5
+[2024-12-08 04:53:57] Notifications retrieved successfully: UserID: 5
+[2024-12-08 04:53:58] Attempting to get notifications for user id: 5
+[2024-12-08 04:53:58] Notifications retrieved successfully: UserID: 5
+[2024-12-08 04:54:03] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:03] Notifications retrieved successfully: UserID: 5
+[2024-12-08 04:54:07] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:07] Notifications retrieved successfully: UserID: 5
+[2024-12-08 04:54:08] Attempting to delete notifications for user id: 5
+[2024-12-08 04:54:08] Deleted notifications for user ID: 5
+[2024-12-08 04:54:08] Notifications deleted successfully: UserID: 5
+[2024-12-08 04:54:08] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:08] Notifications not found: UserID: 5
+[2024-12-08 04:54:09] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:09] Notifications not found: UserID: 5
+[2024-12-08 04:54:14] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:14] Notifications not found: UserID: 5
+[2024-12-08 04:54:19] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:19] Notifications not found: UserID: 5
+[2024-12-08 04:54:21] GET request received for fetching posts.
+[2024-12-08 04:54:21] Attempting to fetch all posts from the database.
+[2024-12-08 04:54:21] Retrieving all posts
+[2024-12-08 04:54:21] Raw results: [{"PostID":7,"CreatorID":5,"Title":"Marshfield Area MTG Casual Event","Likes":0,"DateCreated":"2024\/11\/28","DateHeld":"2024-12-10","Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street"},{"PostID":10,"CreatorID":8,"Title":"Stevens Point MTG Club","Likes":0,"DateCreated":"2024\/12\/08","DateHeld":"2024-12-25","Description":"Test Test Test","Location":"123 Main Street"}]
+[2024-12-08 04:54:21] Posts data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"},{"PostID":10,"CreatorID":8,"Description":"Test Test Test","Location":"123 Main Street","DateHeld":"2024-12-25","DateCreated":"2024\/12\/08","Likes":0,"Title":"Stevens Point MTG Club"}]
+[2024-12-08 04:54:21] Raw Posts Data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"},{"PostID":10,"CreatorID":8,"Description":"Test Test Test","Location":"123 Main Street","DateHeld":"2024-12-25","DateCreated":"2024\/12\/08","Likes":0,"Title":"Stevens Point MTG Club"}]
+[2024-12-08 04:54:21] Formatted Response Data: [{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"},{"post_id":10,"description":"Test Test Test","location":"123 Main Street","date_held":"2024-12-25","date_created":"2024\/12\/08","likes":0,"title":"Stevens Point MTG Club"}]
+[2024-12-08 04:54:21] Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"},{"post_id":10,"description":"Test Test Test","location":"123 Main Street","date_held":"2024-12-25","date_created":"2024\/12\/08","likes":0,"title":"Stevens Point MTG Club"}]}
+[2024-12-08 04:54:22] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:22] Notifications not found: UserID: 5
+[2024-12-08 04:54:23] Valid post_id received: 10
+[2024-12-08 04:54:23] Attempting to retrieve post with ID: 10
+[2024-12-08 04:54:23] User: KodyWeigel was found
+[2024-12-08 04:54:23] Post retrieved successfully: PostID: 10
+[2024-12-08 04:54:23] Attempting to get comments
+[2024-12-08 04:54:23] No comments found for post_id: 10.
+[2024-12-08 04:54:24] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:24] Notifications not found: UserID: 5
+[2024-12-08 04:54:29] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:29] Notifications not found: UserID: 5
+[2024-12-08 04:54:32] Post deleted: PostID 10.
+[2024-12-08 04:54:32] Post deleted with PostID: 10.
+[2024-12-08 04:54:33] GET request received for fetching posts.
+[2024-12-08 04:54:33] Attempting to fetch all posts from the database.
+[2024-12-08 04:54:33] Retrieving all posts
+[2024-12-08 04:54:33] Raw results: [{"PostID":7,"CreatorID":5,"Title":"Marshfield Area MTG Casual Event","Likes":0,"DateCreated":"2024\/11\/28","DateHeld":"2024-12-10","Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street"}]
+[2024-12-08 04:54:33] Posts data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:54:33] Raw Posts Data: [{"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:54:33] Formatted Response Data: [{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]
+[2024-12-08 04:54:33] Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-08 04:54:34] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:34] Notifications not found: UserID: 5
+[2024-12-08 04:54:39] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:39] Notifications not found: UserID: 5
+[2024-12-08 04:54:44] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:44] Notifications not found: UserID: 5
+[2024-12-08 04:54:50] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:50] Notifications not found: UserID: 5
+[2024-12-08 04:54:55] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:55] Notifications not found: UserID: 5
+[2024-12-08 04:54:59] Attempting to get notifications for user id: 5
+[2024-12-08 04:54:59] Notifications not found: UserID: 5
+[2024-12-08 04:55:05] Attempting to get notifications for user id: 5
+[2024-12-08 04:55:05] Notifications not found: UserID: 5
+[2024-12-08 04:55:10] Attempting to get notifications for user id: 5
+[2024-12-08 04:55:10] Notifications not found: UserID: 5
+[2024-12-08 04:55:15] Attempting to get notifications for user id: 5
+[2024-12-08 04:55:15] Notifications not found: UserID: 5
+[2024-12-08 04:55:20] Attempting to get notifications for user id: 5
+[2024-12-08 04:55:20] Notifications not found: UserID: 5
+[2024-12-08 04:55:25] Attempting to get notifications for user id: 5
+[2024-12-08 04:55:25] Notifications not found: UserID: 5
+[2024-12-08 04:55:30] Attempting to get notifications for user id: 5
+[2024-12-08 04:55:30] Notifications not found: UserID: 5
+[2024-12-08 04:55:35] Attempting to get notifications for user id: 5
+[2024-12-08 04:55:35] Notifications not found: UserID: 5
+[2024-12-08 04:55:40] Attempting to get notifications for user id: 5
+[2024-12-08 04:55:40] Notifications not found: UserID: 5
+[2024-12-08 04:55:45] Attempting to get notifications for user id: 5
+[2024-12-08 04:55:45] Notifications not found: UserID: 5
+[2024-12-08 04:56:43] Attempting to get notifications for user id: 5
+[2024-12-08 04:56:43] Notifications not found: UserID: 5
+[2024-12-08 04:57:43] Attempting to get notifications for user id: 5
+[2024-12-08 04:57:43] Notifications not found: UserID: 5
+[2024-12-08 04:58:43] Attempting to get notifications for user id: 5
+[2024-12-08 04:58:43] Notifications not found: UserID: 5
+[2024-12-08 04:59:43] Attempting to get notifications for user id: 5
+[2024-12-08 04:59:43] Notifications not found: UserID: 5
+[2024-12-08 05:00:43] Attempting to get notifications for user id: 5
+[2024-12-08 05:00:43] Notifications not found: UserID: 5
+[2024-12-08 05:01:43] Attempting to get notifications for user id: 5
+[2024-12-08 05:01:43] Notifications not found: UserID: 5
+[2024-12-08 05:02:43] Attempting to get notifications for user id: 5
+[2024-12-08 05:02:43] Notifications not found: UserID: 5
+[2024-12-08 05:03:43] Attempting to get notifications for user id: 5
+[2024-12-08 05:03:43] Notifications not found: UserID: 5
